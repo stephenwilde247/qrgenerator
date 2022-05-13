@@ -3,4 +3,4 @@
 # qrgenerator
 Just a simple QR generator
 
-Feek free to use this however you want!
+Feel free to use this however you want!
